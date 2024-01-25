@@ -1,95 +1,113 @@
 {
-"category" :"clothing",
-"products" :[
+  "category": "clothing",
+  "products": [
     {
-        "id":"c01",
-        "name":"hat",
-        "type":"outfit",
-        "price":250,
-        "discount":20,
-        "currency":"₹",
-        "inventory": 10
+      "id": "c01",
+      "name": "hat",
+      "type": "outfit",
+      "price": 250,
+      "discount": 20,
+      "currency": "₹",
+      "inventory": 10
     },
     {
-        "id":"c02",
-        "name":"mask",
-        "type":"safety",
-        "price":50,
-        "discount":15,
-        "currency":"₹",
-        "inventory":12
+      "id": "c02",
+      "name": "mask",
+      "type": "safety",
+      "price": 50,
+      "discount": 15,
+      "currency": "₹",
+      "inventory": 12
     },
     {
-        "id":"c03",
-        "name":"towel",
-        "type":"cleaning",
-        "price":"300",
-        "discount":10,
-        "currency":"₹",
-        "inventory":13
+      "id": "c03",
+      "name": "towel",
+      "type": "cleaning",
+      "price": "300",
+      "discount": 10,
+      "currency": "₹",
+      "inventory": 13
     },
     {
-        "id":"c04",
-        "name":"t-shirt",
-        "type":"outfit",
-        "price":"400",
-        "discount":30,
-        "currency":"₹",
-        "inventory":14
+      "id": "c04",
+      "name": "t-shirt",
+      "type": "outfit",
+      "price": "400",
+      "discount": 30,
+      "currency": "₹",
+      "inventory": 14
     },
     {
-        "id":"c05",
-        "name":"short",
-        "type":"outfit",
-        "price":"300",
-        "discount":25,
-        "currency":"₹",
-        "inventory":14
+      "id": "c05",
+      "name": "short",
+      "type": "outfit",
+      "price": "300",
+      "discount": 25,
+      "currency": "₹",
+      "inventory": 14
     },
     {
-        "id":"c06",
-        "name":"shirt",
-        "type":"casual",
-        "price":"500",
-        "discount":20,
-        "currency":"₹",
-        "inventory":15
+      "id": "c06",
+      "name": "shirt",
+      "type": "casual",
+      "price": "500",
+      "discount": 20,
+      "currency": "₹",
+      "inventory": 15
     },
     {
-        "id":"c07",
-        "name":"pant",
-        "type":"casual",
-        "price":"700",
-        "discount":30,
-        "currency":"₹",
-        "inventory":16
+      "id": "c07",
+      "name": "pant",
+      "type": "casual",
+      "price": "700",
+      "discount": 30,
+      "currency": "₹",
+      "inventory": 16
     },
     {
-        "id":"c08",
-        "name":"tie",
-        "type":"outfit",
-        "price":150,
-        "discount":10,
-        "currency":"₹",
-        "inventory":17
+      "id": "c08",
+      "name": "tie",
+      "type": "outfit",
+      "price": 150,
+      "discount": 10,
+      "currency": "₹",
+      "inventory": 17
     },
     {
-        "id":"c09",
-        "name":"coat",
-        "type":"casual",
-        "price":2000,
-        "discount":30,
-        "currency":"₹",
-        "inventory":18
+      "id": "c09",
+      "name": "coat",
+      "type": "casual",
+      "price": 2000,
+      "discount": 30,
+      "currency": "₹",
+      "inventory": 18
     },
     {
-        "id":"c10",
-        "name":"sweat-shirt",
-        "type":"casual",
-        "price":400,
-        "discount":10,
-        "currency":"₹",
-        "inventory":18
+      "id": "c10",
+      "name": "sweat-shirt",
+      "type": "casual",
+      "price": 400,
+      "discount": 10,
+      "currency": "₹",
+      "inventory": 18
+    },
+    {
+      "id": "slf7",
+      "name": "New Product",
+      "type": "Type",
+      "price": 20,
+      "currency": "USD",
+      "discount": 2,
+      "inventory": 10
+    },
+    {
+      "id": "52pu",
+      "name": "New Product",
+      "type": "Type",
+      "price": 20,
+      "currency": "USD",
+      "discount": 2,
+      "inventory": 10
     }
-]
+  ]
 }

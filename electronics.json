@@ -1,95 +1,95 @@
 {
-"category" : "electronics",
-"products" : [
+  "category": "electronics",
+  "products": [
     {
-        "id":"e01",
-        "name":"cooker",
-        "type":"kitchen",
-        "price":4000,
-        "discount":20,
-        "currency":"₹",
-        "inventory":12
+      "id": "e01",
+      "name": "cooker",
+      "type": "kitchen",
+      "price": 4000,
+      "discount": 20,
+      "currency": "₹",
+      "inventory": 12
     },
     {
-        "id":"e02",
-        "name":"heater",
-        "type":"water",
-        "price":1500,
-        "discount":10,
-        "currency":"₹",
-        "inventory":10
+      "id": "e02",
+      "name": "heater",
+      "type": "water",
+      "price": 1500,
+      "discount": 10,
+      "currency": "₹",
+      "inventory": 10
     },
     {
-        "id":"e03",
-        "name":"fan",
-        "type":"house-ware",
-        "price":4000,
-        "discount":20,
-        "currency":"₹",
-        "inventory":15
+      "id": "e03",
+      "name": "fan",
+      "type": "house-ware",
+      "price": 4000,
+      "discount": 20,
+      "currency": "₹",
+      "inventory": 15
     },
     {
-        "id":"e04",
-        "name":"AC",
-        "type":"house-ware",
-        "price":15000,
-        "discount":15,
-        "currency":"₹",
-        "inventory":10
+      "id": "e04",
+      "name": "AC",
+      "type": "house-ware",
+      "price": 15000,
+      "discount": 15,
+      "currency": "₹",
+      "inventory": 10
     },
     {
-        "id":"e05",
-        "name":"fridge",
-        "type":"kitchen",
-        "price":15000,
-        "discount":10,
-        "currency":"₹",
-        "inventory":12
+      "id": "e05",
+      "name": "fridge",
+      "type": "kitchen",
+      "price": 15000,
+      "discount": 10,
+      "currency": "₹",
+      "inventory": 12
     },
     {
-        "id":"e06",
-        "name":"monitor",
-        "type":"device",
-        "price":10000,
-        "discount":10,
-        "currency":"₹",
-        "inventory":18
+      "id": "e06",
+      "name": "monitor",
+      "type": "device",
+      "price": 10000,
+      "discount": 10,
+      "currency": "₹",
+      "inventory": 18
     },
     {
-        "id":"e07",
-        "name":"CPU",
-        "type":"device",
-        "price":15000,
-        "discount":10,
-        "currency":"₹",
-        "inventory":13
+      "id": "e07",
+      "name": "CPU",
+      "type": "device",
+      "price": 15000,
+      "discount": 10,
+      "currency": "₹",
+      "inventory": 13
     },
     {
-        "id":"e08",
-        "name":"keyboard",
-        "type":"device",
-        "price":1300,
-        "discount":10,
-        "currency":"₹",
-        "inventory":12
+      "id": "e08",
+      "name": "keyboard",
+      "type": "device",
+      "price": 1300,
+      "discount": 10,
+      "currency": "₹",
+      "inventory": 12
     },
     {
-        "id":"e09",
-        "name":"mouse",
-        "type":"device",
-        "price":500,
-        "discount":10,
-        "currency":"₹",
-        "inventory":10
+      "id": "e09",
+      "name": "mouse",
+      "type": "device",
+      "price": 500,
+      "discount": 10,
+      "currency": "₹",
+      "inventory": 10
     },
     {
-        "id":"e10",
-        "name":"pendrive",
-        "type":"device",
-        "price":700,
-        "discount":10,
-        "currency":"₹",
-        "inventory":13
+      "id": "u75h",
+      "name": "New Product",
+      "type": "Type",
+      "price": 20,
+      "currency": "USD",
+      "discount": 2,
+      "inventory": 10
     }
-]
+  ]
 }

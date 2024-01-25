@@ -1,97 +1,131 @@
-{ 
-"category" : "books",
-"products" : [
+{
+  "category": "books",
+  "products": [
     {
-        "id":"s01",
-        "name":"MahaBharat-1",
-        "type":"mythology",
-        "price":500,
-        "discount":20,
-        "currency":"₹",
-        "inventory":100
-
+      "id": "s01",
+      "name": "MahaBharat-1",
+      "type": "mythology",
+      "price": 500,
+      "discount": 20,
+      "currency": "₹",
+      "inventory": 100
     },
     {
-        "id":"s02",
-        "name":"MahaBharat-2",
-        "type":"mythology",
-        "price":550,
-        "discount":20,
-        "currency":"₹",
-        "inventory":100
+      "id": "s02",
+      "name": "MahaBharat-2",
+      "type": "mythology",
+      "price": 550,
+      "discount": 20,
+      "currency": "₹",
+      "inventory": 100
     },
     {
-        "id":"s03",
-        "name":"MahaBharat-3",
-        "type":"mythology",
-        "price":600,
-        "discount":20,
-        "currency":"₹",
-        "inventory":100
-
+      "id": "s03",
+      "name": "MahaBharat-3",
+      "type": "mythology",
+      "price": 600,
+      "discount": 20,
+      "currency": "₹",
+      "inventory": 100
     },
     {
-        "id":"s04",
-        "name":"MahaBharat-4",
-        "type":"mythology",
-        "price":560,
-        "discount":20,
-        "currency":"₹",
-        "inventory":100
+      "id": "s04",
+      "name": "MahaBharat-4",
+      "type": "mythology",
+      "price": 560,
+      "discount": 20,
+      "currency": "₹",
+      "inventory": 100
     },
     {
-        "id":"s05",
-        "name":"MahaBharat-5",
-        "type":"mythology",
-        "price":500,
-        "discount":15,
-        "currency":"₹",
-        "inventory":150
+      "id": "s05",
+      "name": "MahaBharat-5",
+      "type": "mythology",
+      "price": 500,
+      "discount": 15,
+      "currency": "₹",
+      "inventory": 150
     },
     {
-        "id":"s06",
-        "name":"MahaBharat-6",
-        "type":"mythology",
-        "price":580,
-        "discount":15,
-        "currency":"₹",
-        "inventory":100
+      "id": "s06",
+      "name": "MahaBharat-6",
+      "type": "mythology",
+      "price": 580,
+      "discount": 15,
+      "currency": "₹",
+      "inventory": 100
     },
     {
-        "id":"s07",
-        "name":"MahaBharat-7",
-        "type":"mythology",
-        "price":500,
-        "discount":20,
-        "currency":"₹",
-        "inventory":120
+      "id": "s07",
+      "name": "MahaBharat-7",
+      "type": "mythology",
+      "price": 500,
+      "discount": 20,
+      "currency": "₹",
+      "inventory": 120
     },
     {
-        "id":"s08",
-        "name":"MahaBharat-8",
-        "type":"mythology",
-        "price":500,
-        "discount":20,
-        "currency":"₹",
-        "inventory":130
+      "id": "s08",
+      "name": "MahaBharat-8",
+      "type": "mythology",
+      "price": 500,
+      "discount": 20,
+      "currency": "₹",
+      "inventory": 130
     },
     {
-        "id":"s09",
-        "name":"MahaBharat-9",
-        "type":"mythology",
-        "price":600,
-        "discount":20,
-        "currency":"₹",
-        "inventory":120
+      "id": "s09",
+      "name": "MahaBharat-9",
+      "type": "mythology",
+      "price": 600,
+      "discount": 20,
+      "currency": "₹",
+      "inventory": 120
     },
     {
-        "id":"s10",
-        "name":"MahaBharat-10",
-        "type":"mythology",
-        "price":500,
-        "discount":20,
-        "currency":"₹",
-        "inventory":130
+      "id": "s10",
+      "name": "Updated Product",
+      "type": "Updated Type",
+      "price": 100,
+      "currency": "USD",
+      "discount": 10,
+      "inventory": 50
+    },
+    {
+      "id": "f69u",
+      "name": "New Product",
+      "type": "Type",
+      "price": 20,
+      "currency": "USD",
+      "discount": 2,
+      "inventory": 10
+    },
+    {
+      "id": "d587",
+      "name": "New Product",
+      "type": "Type",
+      "price": 20,
+      "currency": "USD",
+      "discount": 2,
+      "inventory": 10
+    },
+    {
+      "id": "0dn9",
+      "name": "New Product",
+      "type": "Type",
+      "price": 20,
+      "currency": "USD",
+      "discount": 2,
+      "inventory": 10
+    },
+    {
+      "id": "wykd",
+      "name": "New Product",
+      "type": "Type",
+      "price": 20,
+      "currency": "USD",
+      "discount": 2,
+      "inventory": 10
     }
-]
+  ]
 }
